@@ -17,7 +17,7 @@ An AI coaching app that builds and uses a dynamic knowledge graph per user.
 ## ✅ Project Checklist: PsychdAI (4 Weeks)
 
 ### Week 1 – Backend (FastAPI + PostgreSQL + Auth)
-- [ ] Setup FastAPI and test `/ping` endpoint
+- [x] Setup FastAPI and test `/ping` endpoint
 - [ ] Connect PostgreSQL via SQLAlchemy
 - [ ] Create User model and database schema
 - [ ] Implement password hashing with bcrypt
