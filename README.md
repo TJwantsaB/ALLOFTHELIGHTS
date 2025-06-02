@@ -18,11 +18,11 @@ An AI coaching app that builds and uses a dynamic knowledge graph per user.
 
 ### Week 1 – Backend (FastAPI + PostgreSQL + Auth)
 - [x] Setup FastAPI and test `/ping` endpoint
-- [ ] Connect PostgreSQL via SQLAlchemy
-- [ ] Create User model and database schema
-- [ ] Implement password hashing with bcrypt
-- [ ] Build `/register` endpoint
-- [ ] Build `/login` endpoint and JWT token generation
+- [x] Connect PostgreSQL via SQLAlchemy
+- [x] Create User model and database schema
+- [x] Implement password hashing with bcrypt
+- [x] Build `/register` endpoint
+- [x] Build `/login` endpoint and JWT token generation
 - [ ] Add JWT authentication dependency (`get_current_user`)
 - [ ] Build `/me` protected route
 - [ ] Test auth flow end-to-end (Postman or curl)
