@@ -9,3 +9,9 @@ node_modules/
 # Venv
 venv/
 .env/
+
+# Schedule
+Schedule.odt
+
+# School
+/School/
