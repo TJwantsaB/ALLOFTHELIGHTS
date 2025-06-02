@@ -23,10 +23,10 @@ An AI coaching app that builds and uses a dynamic knowledge graph per user.
 - [x] Implement password hashing with bcrypt
 - [x] Build `/register` endpoint
 - [x] Build `/login` endpoint and JWT token generation
-- [ ] Add JWT authentication dependency (`get_current_user`)
-- [ ] Build `/me` protected route
-- [ ] Test auth flow end-to-end (Postman or curl)
-- [ ] Refactor code into app/ folder
+- [x] Add JWT authentication dependency (`get_current_user`)
+- [x] Build `/me` protected route
+- [x] Test auth flow end-to-end (Postman or curl)
+- [x] Refactor code into app/ folder
 
 ---
 
